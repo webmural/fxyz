@@ -23,6 +23,8 @@
 
 :link {
   text-decoration: line-through dotted;
+  text-shadow: 1vw 0 0 coral;
+  transition: 270ms;
 }
 
 :focus {
